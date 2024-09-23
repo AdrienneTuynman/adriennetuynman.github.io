@@ -13,6 +13,7 @@ layout: homepage
 
 ## News
 
+- **[October 2024]** I will be at the [EWRL2024](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my work on average-reward RL!
 - **[26-27 October 2023]** I participated to the [RJMI](https://filles-et-maths.fr/rjmi/) at the Inria center of Lille, introducing a group of highschool girls to the world of scientific research, and supervising them as they worked through an open mathematical problem.
 - **[October 2023]** I started my PhD about fixed budget best arm identification with [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) at the Inria center of Lille in the Scool team.
 - **[Spring and summer 2023]** I conducted my final Master's internship with [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) at the Inria center of Lille in the Scool team about best policy identification in average reward RL.
@@ -22,6 +23,10 @@ layout: homepage
 
 
 ## Teaching
+
+### Academic year 2024-2025
+
+I am the TA for the "Bases mathématiques" course in the first semester again.
 
 ### Academic year 2023-2024
 
