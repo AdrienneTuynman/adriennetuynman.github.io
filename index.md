@@ -2,9 +2,11 @@
 layout: homepage
 ---
 
-## Research Interests
+I am a PhD student in the Inria Scool team at Cristal, where I work under the supervision of Emilie Kaufmann and Rémy Degenne. Before that, I was a student at the ENS Paris-Saclay and the MVA Master's program.
 
-- **Machine Learning:** reinforcement learning, sequential decision making, bandits
+I am particularly interested in identification problems in Multi-Armed Bandits and Reinforcement Learning. I like to craft algorithms that work with small sample-size for pure exploration problems, and that match the information lower bound for them.
+
+Beyond that, I enjoy learning about statistical testing, sequential testing, safe statistics, and more broadly machine learning.
 
 ## Pre-publications
 
