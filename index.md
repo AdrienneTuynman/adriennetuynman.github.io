@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am a PhD student in the Inria Scool team at Cristal, where I work under the supervision of Emilie Kaufmann and Rémy Degenne. Before that, I was a student at the ENS Paris-Saclay and the MVA Master's program.
+I am a PhD student in the [Inria Scool team](https://team.inria.fr/scool/) at [CRIStAL](https://www.cristal.univ-lille.fr/), where I work under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Before that, I was a student at the ENS Paris-Saclay and the MVA Master's program.
 
 I am particularly interested in identification problems in Multi-Armed Bandits and Reinforcement Learning. I like to craft algorithms that work with small sample-size for pure exploration problems, and that match the information lower bound for them.
 
@@ -15,6 +15,7 @@ Beyond that, I enjoy learning about statistical testing, sequential testing, saf
 
 ## News
 
+- **[December 2024]** My paper about average-reward RL has been accepted at [NeurIPS 2024](https://neurips.cc/) in Vancouver. See you there!
 - **[October 2024]** I will be at the [EWRL2024](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my work on average-reward RL!
 - **[26-27 October 2023]** I participated to the [RJMI](https://filles-et-maths.fr/rjmi/) at the Inria center of Lille, introducing a group of highschool girls to the world of scientific research, and supervising them as they worked through an open mathematical problem.
 - **[October 2023]** I started my PhD about fixed budget best arm identification with [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) at the Inria center of Lille in the Scool team.
