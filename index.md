@@ -15,6 +15,7 @@ Beyond that, I enjoy learning about statistical testing, sequential testing, saf
 
 ## News
 
+- **[January 2025]** I presented my work at the [virtual RL seminar](https://sites.google.com/view/rltheoryseminars/home). The recording will soon be made available.
 - **[December 2024]** My paper about average-reward RL has been accepted at [NeurIPS 2024](https://neurips.cc/) in Vancouver. See you there!
 - **[October 2024]** I will be at the [EWRL2024](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my work on average-reward RL!
 - **[26-27 October 2023]** I participated to the [RJMI](https://filles-et-maths.fr/rjmi/) at the Inria center of Lille, introducing a group of highschool girls to the world of scientific research, and supervising them as they worked through an open mathematical problem.
