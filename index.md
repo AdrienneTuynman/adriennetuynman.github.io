@@ -19,6 +19,8 @@ Beyond that, I enjoy learning about statistical testing, sequential testing, saf
 
 ## News
 
+- **[July 2025]** I will be back in Vancouver to present our [paper about batched bandits](https://arxiv.org/abs/2502.01425) at [ICML 2025](https://icml.cc/Conferences/2025/index.html).
+- **[June 2025]** I was at [COLT](https://learningtheory.org/colt2025/).
 - **[January 2025]** I presented my work at the [virtual RL seminar](https://sites.google.com/view/rltheoryseminars/home). You can watch the recording [on YouTube](https://youtu.be/wcuiEh0jgRw?feature=shared).
 - **[December 2024]** My paper about average-reward RL has been accepted at [NeurIPS 2024](https://neurips.cc/) in Vancouver. See you there!
 - **[October 2024]** I will be at the [EWRL2024](https://ewrl.wordpress.com/ewrl17-2024/) in Toulouse to present my work on average-reward RL!
