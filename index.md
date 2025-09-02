@@ -11,14 +11,14 @@ Beyond that, I enjoy learning about statistical testing, sequential testing, saf
 
 ## Publication
 - **Adrienne Tuynman**, [Rémy Degenne](https://remydegenne.github.io/), [Emilie Kaufmann](https://emiliekaufmann.github.io/) (2024). [Finding good policies in average-reward Markov Decision Processes without prior knowledge](https://papers.nips.cc/paper_files/paper/2024/hash/c6b2921f24f82dc05cda53bbe50bab90-Abstract-Conference.html). NeurIPS 2024.
+- **Adrienne Tuynman**, [Rémy Degenne](https://remydegenne.github.io/) (2025). [The Batch Complexity of Bandit Pure Exploration](https://arxiv.org/abs/2502.01425). ICML 2025.
 
 ## Pre-publications
-
-- **Adrienne Tuynman**, [Rémy Degenne](https://remydegenne.github.io/)(2025). [The Batch Complexity of Bandit Pure Exploration](https://arxiv.org/abs/2502.01425)
 - **Adrienne Tuynman**, [Ronald Ortner](https://ortner.unileoben.ac.at/) (2022). [Transfer in Reinforcement Learning via Regret Bounds for Learning Agents](https://arxiv.org/abs/2202.01182)
 
 ## News
 
+- **[September 2025]** With my coworker [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/), we prepared an entry for the [Summer of Math Exposition competition](https://some.3b1b.co/). Check out our [animated video about how to conduct safe tests](https://www.youtube.com/watch?v=K18QBMPB7A0).
 - **[July 2025]** I will be back in Vancouver to present our [paper about batched bandits](https://arxiv.org/abs/2502.01425) at [ICML 2025](https://icml.cc/Conferences/2025/index.html).
 - **[June 2025]** I was at [COLT](https://learningtheory.org/colt2025/).
 - **[January 2025]** I presented my work at the [virtual RL seminar](https://sites.google.com/view/rltheoryseminars/home). You can watch the recording [on YouTube](https://youtu.be/wcuiEh0jgRw?feature=shared).
@@ -34,10 +34,10 @@ Beyond that, I enjoy learning about statistical testing, sequential testing, saf
 
 ## Teaching
 
-### Academic year 2024-2025
+### Teaching material
 
-I am the TA for the "Bases mathématiques" course in the first semester again.
+Check out me and [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/)'s animated video about performing safe tests [here](https://www.youtube.com/watch?v=K18QBMPB7A0).
 
-### Academic year 2023-2024
+### 2023-2026
 
-I was the TA for the course "Bases mathématiques" in the first semester, and for the Cryptography course in the second semester for the [mathematics Master's of the Lille University](https://sciences-technologies.univ-lille.fr/mathematiques/formation/master-mention-mathematiques-et-applications/parcours-mfca)
+I am the TA for the "Bases mathématiques" course in the first semester again, and for the Cryptography course in the second semester for the mathematics Master's of the Lille University](https://sciences-technologies.univ-lille.fr/mathematiques/formation/master-mention-mathematiques-et-applications/parcours-mfca).
