@@ -4,18 +4,15 @@ layout: homepage
 
 I am a PhD student in the [Inria Scool team](https://team.inria.fr/scool/) at [CRIStAL](https://www.cristal.univ-lille.fr/), where I work under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Before that, I was a student at the ENS Paris-Saclay and the MVA Master's program.
 
-I am particularly interested in identification problems in Multi-Armed Bandits and Reinforcement Learning. I like to craft algorithms that work with small sample-size for pure exploration problems, and that match the information lower bound for them.
-
-Beyond that, I enjoy learning about statistical testing, sequential testing, safe statistics, and more broadly machine learning.
+I am particularly interested in identification problems in Multi-Armed Bandits and Reinforcement Learning. I like to craft algorithms that work with small sample-size for pure exploration problems, and that match the information lower bound for them. Beyond that, I enjoy learning about statistical testing, sequential testing, safe statistics, and more broadly machine learning.
 
 
 ## Publications
+- **Adrienne Tuynman**, [Ronald Ortner](https://ortner.unileoben.ac.at/) (2026). [Quantification of transfer in reinforcement learning via regret bounds for learning agents](https://link.springer.com/article/10.1007/s10458-026-09739-7)
 - [Victor Boone](https://victor-boone.github.io/), **Adrienne Tuynman** (2026). [Towards Blackwell Optimality: Bellman Optimality Is All You Can Get](https://arxiv.org/abs/2510.13476). Accepted as Spotlight at [AISTATS 2026](https://virtual.aistats.org/Conferences/2026).
 - **Adrienne Tuynman**, [Rémy Degenne](https://remydegenne.github.io/) (2025). [The Batch Complexity of Bandit Pure Exploration](https://arxiv.org/abs/2502.01425). ICML 2025.
 - **Adrienne Tuynman**, [Rémy Degenne](https://remydegenne.github.io/), [Emilie Kaufmann](https://emiliekaufmann.github.io/) (2024). [Finding good policies in average-reward Markov Decision Processes without prior knowledge](https://papers.nips.cc/paper_files/paper/2024/hash/c6b2921f24f82dc05cda53bbe50bab90-Abstract-Conference.html). NeurIPS 2024.
 
-## Pre-publication
-- **Adrienne Tuynman**, [Ronald Ortner](https://ortner.unileoben.ac.at/) (2022). [Transfer in Reinforcement Learning via Regret Bounds for Learning Agents](https://arxiv.org/abs/2202.01182)
 
 ## News
 
