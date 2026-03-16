@@ -1,15 +1,8 @@
 ---
 layout: homepage
+title: Talks & Presentations
 ---
 
-I am a PhD student in the [Inria Scool team](https://team.inria.fr/scool/) at [CRIStAL](https://www.cristal.univ-lille.fr/), where I work under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Before that, I was a student at the ENS Paris-Saclay and the MVA Master's program.
-
-I am particularly interested in identification problems in Multi-Armed Bandits and Reinforcement Learning. I like to craft algorithms that work with small sample-size for pure exploration problems, and that match the information lower bound for them. Beyond that, I enjoy learning about statistical testing, sequential testing, safe statistics, and more broadly machine learning.
-
-
-## News
-
-- **[October 2026]** My team in Lille is organising [EWRL 2026](https://ewrl-org.github.io/ewrl-2026/)!
 - **[February 2026]** I will be at the [Mannheim RL workshop](https://www.wim.uni-mannheim.de/doering/conferences/rl-2026/) this week. Come see me if you want to chat about average reward RL!
 - **[September 2025]** I was in [EWRL2025](https://ewrl.wordpress.com/ewrl18-2025/) in Tübingen to present my batched bandits paper.
 - **[September 2025]** With my coworker [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/), we prepared an entry for the [Summer of Math Exposition competition](https://some.3b1b.co/). Check out our [animated video about how to conduct safe tests](https://www.youtube.com/watch?v=K18QBMPB7A0).
@@ -24,4 +17,3 @@ I am particularly interested in identification problems in Multi-Armed Bandits a
 - **[September 2022]** We presented our [paper](https://ewrl.files.wordpress.com/2022/09/multiagentregret.pdf) about transfer learning at [EWRL 2022](https://ewrl.wordpress.com/past-ewrl/ewrl15-2022/).
 - **[Spring and summer 2021]** I conducted an internship with [Ronald Ortner](https://ortner.unileoben.ac.at/) at the Montanuniversität Leoben about transfer learning in average reward RL.
 - **[Summer 2020]** I conducted a month long internship with [Philippe Preux](https://philippe-preux.github.io/) at the Inria center of Lille in the SequeL team.
-
