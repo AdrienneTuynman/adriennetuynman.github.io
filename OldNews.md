@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Talks & Presentations
+title: Past Events
 ---
 
 - **[February 2026]** I will be at the [Mannheim RL workshop](https://www.wim.uni-mannheim.de/doering/conferences/rl-2026/) this week. Come see me if you want to chat about average reward RL!
