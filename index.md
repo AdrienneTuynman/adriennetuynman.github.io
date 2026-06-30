@@ -9,6 +9,7 @@ I am particularly interested in identification problems in Multi-Armed Bandits a
 
 ## News
 
+- **[October 8th 2026]** I will be defending my PhD in Lille
 - **[October 2026]** My team in Lille is organising [EWRL 2026](https://ewrl-org.github.io/ewrl-2026/)!
-- **[June-July 2026]** I will be talking at [SAVI 2026](https://savi-conference.github.io/2026/) in Enschede with my coworker Timothée Mathieu about our work on e-values for preference testing.
+- **[June-July 2026]** I will be at [SAVI 2026](https://savi-conference.github.io/2026/) in Enschede with my coworker Timothée Mathieu to present [our work on e-values for preference testing](https://arxiv.org/abs/2606.29998).
 - **[May 2026]** Our [paper about Blackwell optimality identification](https://arxiv.org/abs/2510.13476) has been accepted as a spotlight presentation at [AISTATS 2026](https://virtual.aistats.org/). Come see me at Tangier!
