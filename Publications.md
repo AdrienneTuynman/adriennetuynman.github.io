@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Pre-publications
-- **Adrienne Tuynman**, [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/) (2026). [Optimal Posterior E-values with Non-Convex Parameter Sets with Applications to Voting Systems](https://arxiv.org/abs/2606.29998). Presented at the SAVI 2026 workshop.
+- **Adrienne Tuynman**, [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/) (2026). [Optimal Posterior E-values with Non-Convex Parameter Sets with Applications to Voting Systems](https://arxiv.org/abs/2606.29998). Presented at the [SAVI 2026 workshop](https://savi-conference.github.io/). Associated code available [here](https://github.com/TimotheeMathieu/evalue-ripr).
 
 ## Publications
 - **Adrienne Tuynman**, [Ronald Ortner](https://ortner.unileoben.ac.at/) (2026). [Quantification of transfer in reinforcement learning via regret bounds for learning agents](https://link.springer.com/article/10.1007/s10458-026-09739-7)
