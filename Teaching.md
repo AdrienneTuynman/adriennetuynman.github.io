@@ -8,8 +8,9 @@ title: Teaching
 
 ### Teaching material
 
-Check out me and [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/)'s animated video about performing safe tests [here](https://www.youtube.com/watch?v=K18QBMPB7A0).
-If you speak french, also check out our video explaining best arm identification algorithms to highschoolers [here](https://youtu.be/02HCPY_XErw).
+Check out me and [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/)'s animated video about performing safe tests [here](https://www.youtube.com/watch?v=K18QBMPB7A0). We also made one about best arm identification, successive rejects and track and stop [here](https://www.youtube.com/watch?v=IX_GJeOFP7Q).
+
+For French speakers, we have a shorter video about best arm identification, aimed at highschool students, [here](https://youtu.be/02HCPY_XErw).
 
 ### 2023-2026
 
