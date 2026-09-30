@@ -9,7 +9,8 @@ I am particularly interested in identification problems in Multi-Armed Bandits a
 
 ## News
 
+- **[December 13th 2026]** My paper with [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/) about using e-values for logistic regression has been accepted as an oral presentation at the [e-value workshop of NeurIPS](https://e-values-workshop.github.io/). If you want to hear about our posterior-optimal e-value concept, or how we applied it to logistic regression, come see us in Paris!
 - **[October 8th 2026]** I will be defending my PhD in Lille! Come see the defense in [Lilliad](https://lilliad.univ-lille.fr/ma-bu-en-pratique/horaires-et-acces) at 9:30.
 - **[October 2026]** My team in Lille is organising [EWRL 2026](https://ewrl-org.github.io/ewrl-2026/)!
-- **[June-July 2026]** I was at [SAVI 2026](https://savi-conference.github.io/2026/) in Enschede with my coworker Timothée Mathieu to present [our work on e-values for preference testing](https://arxiv.org/abs/2606.29998).
+- **[June-July 2026]** I was at [SAVI 2026](https://savi-conference.github.io/2026/) in Enschede with my coworker [Timothée Mathieu](https://tmathieu.gitlabpages.inria.fr/home/) to present [our work on e-values for preference testing](https://arxiv.org/abs/2606.29998).
 - **[May 2026]** Our [paper about Blackwell optimality identification](https://arxiv.org/abs/2510.13476) has been accepted as a spotlight presentation at [AISTATS 2026](https://virtual.aistats.org/). Come see me at Tangier!
